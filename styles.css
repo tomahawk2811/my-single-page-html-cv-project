@@ -1,0 +1,19 @@
+body {
+    font-family: Open Sans, sans-serif;
+    text-align: left;
+}
+
+.line {
+    border: none;
+    height: 2px;
+    background-color: #000;
+    margin: 0 0 10px;
+}
+
+.highlight {
+    color: hsl(132, 36%, 57%);
+}
+
+.highlight2 {
+    color:  hsl(209, 58%, 53%);
+}
